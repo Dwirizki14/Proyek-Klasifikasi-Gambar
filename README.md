@@ -1,6 +1,6 @@
 # Proyek-Klasifikasi-Gambar
 
-Proyek ini merupakan tugas akhir klasifikasi citra menggunakan Convolutional Neural Network (CNN) dengan dataset berisi 3 kelas: **kucing (cats)**, **anjing (dogs)**, dan **ular (snakes)**. Dataset telah dibagi menjadi data training, validation, dan testing, masing-masing sebanyak:
+Proyek ini merupakan tugas akhir klasifikasi citra menggunakan Convolutional Neural Network (CNN) dengan dataset berisi 3 kelas: **kucing (cats)**, **anjing (dogs)**. Dataset telah dibagi menjadi data training, validation, dan testing, masing-masing sebanyak:
 
 - **Train**: 700 gambar/kelas
 - **Validation**: 150 gambar/kelas
